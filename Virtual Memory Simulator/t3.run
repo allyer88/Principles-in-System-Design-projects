@@ -1,0 +1,17 @@
+LRU
+write 0 100
+write 3 202
+write 4 102
+write 1 104
+write 8 403
+write 15 113
+write 10 200
+write 17 205
+write 16 406
+write 24 333
+read 32
+write 40 105
+showmain 3
+showtable
+quit
+

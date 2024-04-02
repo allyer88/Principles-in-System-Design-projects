@@ -1,0 +1,12 @@
+FIFO
+write 0 100
+write 8 200
+write 16 300
+write 16 400
+write 24 500
+read 32
+write 40 600
+showmain 1
+showmain 4
+showtable
+quit
